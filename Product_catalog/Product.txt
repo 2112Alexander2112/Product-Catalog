@@ -1,0 +1,40 @@
+1
+Smartphone
+Apple
+799.99
+2
+Laptop
+Dell
+1299.99
+3
+Headphones
+Sony
+149.95
+4
+Camera
+Canon
+599.99
+5
+Coffee Maker
+Keurig
+89.99
+6
+Running Shoes
+Nike
+119.99
+7
+Backpack
+The North Face
+79.95
+8
+Smartwatch
+Samsung
+249.99
+9
+Bluetooth Speaker
+JBL
+69.99
+10
+Desk Chair
+IKEA
+149.99
